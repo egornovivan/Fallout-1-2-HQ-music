@@ -18,5 +18,6 @@ High quality music for Fallout 1 and 2.
 
 **Note:** you can't use UHQ in Fallout **1** directly, but you can use it in [Fallout1in2](https://github.com/rotators/Fo1in2).
 
-
+## Composer
+[Mark Morgan](https://vgmdb.net/artist/1446)
 
