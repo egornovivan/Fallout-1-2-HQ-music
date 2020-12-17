@@ -4,8 +4,8 @@ High quality music for Fallout 1 and 2.
 
 ## Installation
 
-### High quality
-1. Download HQ version from the [latest release page](https://github.com/egornovivan/Fallout-1-2-HQ-music/releases/latest).
+### Low quality
+1. Download LQ version from the [latest release page](https://github.com/egornovivan/Fallout-1-2-HQ-music/releases/latest).
 1. Extract into `data\sound\music`.
 1. In `fallout2.cfg` find `[sound]` section and set `music_path1=data\sound\music\`.
 

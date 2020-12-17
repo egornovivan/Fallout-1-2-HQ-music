@@ -9,7 +9,7 @@ else
   export version="git$TRAVIS_COMMIT"
 fi
 
-for q in hq_ebur128 uhq_ebur128; do
+for q in lq_ebur128 uhq_ebur128; do
   fname="fallout_1_2_${q}_music_${version}.zip"
   cp "LICENSE.md" "$q"
   cd "$q"
