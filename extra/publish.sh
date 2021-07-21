@@ -13,6 +13,9 @@ for q in lq_ebur128 hq_ebur128 uhq_ebur128; do
   fname="fallout_1_2_${q}_music_${version}.zip"
   cp "LICENSE.md" "$q"
   cd "$q"
+  for f in 03wrldmp.*; do 
+    cp -- "$f" "03world${f#03wrldmp}"
+  done
   zip "$fname" *
   mv "$fname" ..
   cd ..
